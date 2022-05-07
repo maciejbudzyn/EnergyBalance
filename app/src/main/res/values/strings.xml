@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bilans Mocy</string>
+    <string name="SE_HVDC_capital_colon">SE HVDC:</string>
+    <string name="DE_capital_colon">DE:</string>
+    <string name="CZ_capital_colon">CZ:</string>
+    <string name="SK_capital_colon">SK:</string>
+    <string name="UA_capital_colon">UA:</string>
+    <string name="LT_capital_colon">LT:</string>
+    <string name="plan_capital_colon">PLAN:</string>
+    <string name="FREQUENCY">CZĘSTOTLIWOŚĆ [Hz]</string>
+    <string name="NEEDED_MW">ZAPOTRZEBOWANIE [MW]</string>
+    <string name="GENERATED_MW">GENERACJA [MW]</string>
+    <string name="BALANCE">SALDO WYMIANY [MW]</string>
+    <string name="fossil_plant">el. cieplne</string>
+    <string name="water_plant">el. wodne</string>
+    <string name="wind_plant">el. wiatrowe</string>
+    <string name="pv_plant">el. słoneczne</string>
+    <string name="others">el. inne odnawialne</string>
+    <string name="IMPORT">IMPORT</string>
+    <string name="EXPORT">EKSPORT</string>
+    <string name="IMPORT_array">—> IMPORT</string>
+    <string name="array_EXPORT">&lt;— EXPORT</string>
+    <string name="downloading_data">Pobieram dane ze strony PSE....</string>
+    <string name="REFRESH">ODŚWIEŻ</string>
+    <string name="data_source">Źródło Danych: pse.pl</string>
+</resources>
